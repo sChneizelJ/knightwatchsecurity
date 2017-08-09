@@ -1,0 +1,10 @@
+.no-padding {
+    border: 0px;
+    padding:0;
+    margin:0;
+    border-collapse: collapse;
+}
+
+.hadjust {
+  height: 30px;
+}
