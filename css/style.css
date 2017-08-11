@@ -7,4 +7,21 @@
 
 .hadjust {
   height: 30px;
+
+}
+
+#mainContent {
+
+  height: 800px !important;
+
+}
+
+.fixH {
+
+  height: 70px !important;
+}
+
+.verLign {
+
+  vertical-align: 50% !important;
 }
